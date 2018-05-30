@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/5.png</file>
+        <file>res/cart.png</file>
+        <file>res/Crime_icon-icons.com_54190.png</file>
+        <file>res/edit.png</file>
+        <file>res/shop.png</file>
+        <file>res/w256h2561355246782add.png</file>
+        <file>res/w512h5121380984207add.png</file>
+        <file>res/w512h5121380984637delete1.png</file>
+        <file>res/w512h5121390857238shopingcartfilled512.png</file>
+    </qresource>
+</RCC>
